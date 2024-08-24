@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Thomas W. Miller</author>
+    <created>2022-02-17T12:00:01.000+02:00</created>
+    <last-modified>2024-02-12T09:58:39.856+05:30</last-modified>
+    <description>Coffee-Shop
+
+A coffee shop presents a simple queueing problem for introducing discrete event simulation.  The program has events corresponding customer arrivals, joining a queue or balking, entering and receiving/ending service. An event log is produced showing customer/caseid, time, and activity. Analyses of the event log are perforned at the end of the script. Refer to the console output to see results.</description>
+    <tags>
+        <tag>Discrete Event Simulation</tag>
+        <tag>Service Industry</tag>
+        <tag>Event Log</tag>
+        <tag>Queue</tag>
+        <tag>Process Analytics</tag>
+    </tags>
+</workflow-metadata>

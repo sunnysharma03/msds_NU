@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="4" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="text" name="Author" read-only="false">Thomas W. Miller</element>
+    <element form="date" name="Creation Date" read-only="false">17/1/2022/12:00:01 +02:00</element>
+    <element form="multiline" name="Comments" read-only="false">There has been no title set for this workflow's metadata.
+
+Coffee-Shop
+
+A coffee shop presents a simple queueing problem for introducing discrete event simulation.  The program has events corresponding customer arrivals, joining a queue or balking, entering and receiving/ending service. An event log is produced showing customer/caseid, time, and activity. Analyses of the event log are perforned at the end of the script. Refer to the console output to see results.
+
+TAGS: Discrete Event Simulation,Service Industry,Event Log,Queue,Process Analytics</element>
+    <element form="text" name="Last Edited" read-only="true">2024-02-12 09:58:39 +0530</element>
+</KNIMEMetaInfo>
