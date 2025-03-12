@@ -1,0 +1,12 @@
+flask
+python-dotenv
+requests
+spotipy
+playwright
+pandas
+openai
+psycopg2
+scikit-learn
+scipy
+surprise
+lightfm

@@ -1,0 +1,51 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,language,user_name,played_at
+Fuego,Una Vaina Loca,36cIxPAlW73RVpjEw2k3Ac,0,2011,reggaeton,0.797,0.88,5,-4.89,0,0.0425,0.122,0,0.0859,0.664,116.969,262107,Spanish,George,2025-02-13T10:23:56.0679Z
+Jason Derulo,Want to Want Me,0HFx7PLqzGxSfN59j3UHmR,49,2015,pop edm,0.775,0.68,0,-5.508,0,0.0629,0.00906,0,0.109,0.656,114.025,207719,English,George,2025-02-13T09:03:22.0679Z
+Pitbull,Como Yo Le Doy - Remix,2iRZ0Gh5gT0vtlibKSOzLm,1,2014,reggaeton,0.766,0.863,7,-3.83,1,0.0801,0.162,0,0.316,0.818,97.966,262250,Spanish,George,2025-02-13T08:33:54.0679Z
+Nick Jonas,Chains - Remix,3ehS7brEPi3Pc8yitrFdbG,43,2015,pop edm,0.504,0.674,0,-5.824,0,0.0622,0.0247,0,0.0757,0.0991,76.847,203000,English,George,2025-02-13T04:28:01.0679Z
+Farruko,Obsesionado,5Jt4zdXTd9y1zxihiNYQI1,63,2015,reggaeton,0.696,0.876,11,-4.104,0,0.0801,0.0506,0,0.0687,0.669,169.027,211813,Spanish,George,2025-02-12T02:11:59.0679Z
+Urban Cone,Come Back To Me - Vicetone Remix,4PvSXqDZXQYE9lKWaWz4lI,0,2015,pop edm,0.549,0.767,6,-4.236,0,0.0303,0.0018,1.34E-05,0.276,0.406,108.037,186666,English,George,2025-02-12T01:04:33.0679Z
+Guille El Invencible,Dime Si Este Amor Se Acabo,6VJltndLhBNRfAwriX9yY3,0,2010,latin pop,0.771,0.934,8,-3.151,0,0.109,0.401,0,0.165,0.802,95.007,247253,Spanish,George,2025-02-10T20:15:46.0679Z
+Vance Joy,Riptide - Live from Spotify London,5UcDFuZnsgtXTuN7GO79Wf,31,2014,latin pop,0.571,0.356,0,-13.506,1,0.0657,0.945,3.00E-05,0.112,0.636,102.19,189893,English,George,2025-02-07T05:07:05.0679Z
+Carlos Vives,Cuando Nos Volvamos a Encontrar - Live from Spotify,41pyh0FQdHrMiYvQuVtkSv,38,2014,latin pop,0.457,0.723,1,-4.748,1,0.036,0.148,0,0.132,0.499,103.189,273515,Spanish,George,2025-02-06T20:13:04.0679Z
+Daddy Yankee,La Nueva Y La Ex,1WZ80MjGaTqyPPRTP5TJQf,0,2013,reggaeton,0.771,0.941,5,-4.052,1,0.0584,0.0423,0,0.158,0.631,98.996,196933,Spanish,George,2025-02-05T11:49:21.0679Z
+Don Omar,Guaya Guaya,79zvVrn65ksbiGQxrtV4I5,67,2015,reggaeton,0.788,0.873,7,-2.322,1,0.117,0.00607,0.00052,0.0908,0.703,91.981,193613,Spanish,George,2025-02-05T08:09:29.0679Z
+Noriega,Linda Estrella (feat. Baby Rasta y Gringo),0Mh3iJMEPtCjM7tfJYdFnA,0,2014,reggaeton,0.747,0.53,1,-9.444,0,0.192,0.0261,3.47E-05,0.148,0.848,75.087,174067,Spanish,George,2025-02-04T23:56:22.0679Z
+Darius & Finlay,Destination - Michael Mind Remix Edit,0cNRa6q0dPjckz3SoDGirO,33,2010,pop edm,0.651,0.871,8,-5.204,1,0.0397,0.000424,0.000113,0.344,0.729,129.974,194653,English,George,2025-02-03T08:22:22.0679Z
+Gotye,Somebody That I Used To Know - 4FRNT Remix,59WgopKOlHZ5Bh3RDPMspq,0,2012,pop edm,0.787,0.623,0,-6.723,1,0.0751,0.00131,0.000902,0.0787,0.775,128.983,318052,English,George,2025-02-02T01:27:25.0679Z
+Maroon 5,One More Night,3icobpUUcKEbt2zQUqRpvM,33,2012,pop edm,0.714,0.821,5,-3.426,0,0.0315,0.0594,0,0.0799,0.636,93,219493,English,George,2025-02-01T15:50:53.0679Z
+Slash,"Sweet Child O' Mine - feat. Myles Kennedy and The Conspirators; Live at Spotify, London",1BMDaiVYDREQnrQZA7Drpk,59,2014,latin pop,0.566,0.538,6,-5.729,1,0.0346,0.406,0.000497,0.979,0.315,121.154,396968,English,George,2025-01-31T15:37:15.0679Z
+Paul Anka,Think I'm In Love Again,7pWtnNjTrdZ4OiCZUK9BQ2,44,2013,latin pop,0.617,0.463,10,-10.138,1,0.0326,0.514,1.01E-06,0.103,0.44,130.046,303560,English,George,2025-01-31T08:42:30.0679Z
+3LAU,How You Love Me,1nas007nDbzLwDGwvMdz79,52,2014,pop edm,0.496,0.789,1,-3.648,1,0.0839,0.183,0,0.34,0.286,127.961,210469,English,George,2025-01-31T00:30:17.0679Z
+Enrique Iglesias,Bailando - Spanish Version,32lm3769IRfcnrQV11LO4E,68,2014,latin pop,0.723,0.777,7,-3.503,1,0.108,0.0426,3.68E-06,0.0451,0.961,91.017,243413,Spanish,George,2025-01-30T21:44:05.0679Z
+Zedd,Beautiful Now - Marshmello Remix,1kLKGEKMyhY3jP8ka87NgD,0,2015,pop edm,0.668,0.928,11,-3.114,0,0.0303,0.0133,5.89E-05,0.0816,0.669,140.065,196040,English,George,2025-01-30T02:28:17.0679Z
+Afrojack,Ten Feet Tall - Brennan Heart & Code Black Remix,2jaiM4hzyyQWZoLKrViTGf,0,2014,pop edm,0.38,0.931,9,-3.71,0,0.0848,0.00684,0.00142,0.515,0.455,149.966,274843,English,George,2025-01-29T07:23:59.0679Z
+Zion,More,6FZCj8wIH1sDklyZH3DEUC,3,2012,latin pop,0.687,0.778,1,-6.623,0,0.101,0.209,0,0.117,0.865,172.047,240733,Spanish,George,2025-01-29T06:50:38.0679Z
+Don Omar,Ella Ella,7AObnx2EzL6FeYjmdjPCoA,47,2010,reggaeton,0.821,0.667,0,-5.845,0,0.124,0.188,0,0.0647,0.688,96.415,202600,Spanish,George,2025-01-29T04:55:00.0679Z
+Jadiel,Fashion Girl,3cen7DS8IWL3XADfzggKma,57,2013,reggaeton,0.77,0.63,9,-13.213,0,0.0516,0.00965,0.000346,0.261,0.5,100.004,239049,Spanish,George,2025-01-28T11:51:29.0679Z
+"Tito ""El Bambino""",Caile,0vIx1UujIOIF512NlNDm5k,49,2010,reggaeton,0.843,0.797,1,-4.962,1,0.0894,0.0833,2.16E-06,0.229,0.697,96.948,191078,Spanish,George,2025-01-27T23:32:50.0679Z
+Jason Derulo,Painkiller (feat. Meghan Trainor),6ILsOdeN5cv3M0tp0ootWF,51,2015,pop edm,0.739,0.703,4,-5.897,0,0.0359,0.0123,0,0.53,0.561,128.041,203600,English,George,2025-01-27T17:12:02.0679Z
+Nathan Grisdale,Lost,5tkxNImJO0gGcXmKepjaJG,39,2014,pop edm,0.868,0.42,9,-9.752,1,0.0462,0.212,0,0.531,0.741,99.975,187500,English,George,2025-01-26T22:42:55.0679Z
+Joey Montana,Tus Ojos No Me Ven - feat. Joewell y Randy,09xnGXVrbniWV4mLTgGyD5,45,2010,latin pop,0.82,0.566,8,-11.921,1,0.12,0.185,0,0.0677,0.67,95.015,279568,Spanish,George,2025-01-26T15:01:32.0679Z
+The Weeknd,Often - Kygo Remix,1qoHlIpgGxtmYsYdyiySiL,7,2015,pop edm,0.582,0.498,7,-9.906,0,0.0455,0.12,0,0.385,0.426,80.028,234400,English,George,2025-01-26T09:34:10.0679Z
+Tony Dize,Permitame,2UPfiKisNceDee4VFcdoZx,49,2012,reggaeton,0.617,0.66,8,-7.192,1,0.171,0.0303,0,0.102,0.895,214.017,186987,Spanish,George,2025-01-25T00:42:05.0679Z
+Plan B,Candy,2I1uzkNYEJ5FOzLjI0ssTX,1,2014,latin pop,0.897,0.864,11,-3.735,0,0.147,0.252,0,0.517,0.542,95.981,207627,Spanish,George,2025-01-24T04:48:14.0679Z
+Fuego,Una Vaina Loca,00hdjyXt6MohKnCyDmhxOL,1,2011,latin pop,0.794,0.882,1,-5.589,1,0.0361,0.114,7.98E-05,0.062,0.642,117.009,188213,Spanish,George,2025-01-23T16:29:06.0679Z
+Coldplay,Paradise - Tiësto Remix,0pjMTISKHTJkogN1BPZxaC,48,2012,pop edm,0.637,0.736,2,-6.003,0,0.0404,0.0123,0.14,0.0798,0.643,130.015,286347,English,George,2025-01-23T04:32:43.0679Z
+Farruko,Chillax (feat. Ky-Mani Marley),1lxswgIpzV6HhENRvkflES,69,2015,reggaeton,0.827,0.646,1,-4.727,0,0.0766,0.0724,0,0.247,0.512,92.057,197840,Spanish,George,2025-01-23T01:54:34.0679Z
+Juanes,Nada Valgo Sin Tu Amor - MTV Unplugged,2ZNdWbMx7cWPM1WWtcWyJ4,0,2012,latin pop,0.492,0.712,0,-7.01,1,0.0426,0.231,0,0.942,0.342,145.946,224600,Spanish,George,2025-01-22T23:33:51.0679Z
+Jowell & Randy,Loco,0jicrrstuAzf6GLIUdwAQk,53,2010,latin pop,0.76,0.771,9,-8.91,0,0.0959,0.0111,2.15E-05,0.566,0.75,114.919,231107,Spanish,George,2025-01-21T09:06:06.0679Z
+Imagine Dragons,I Bet My Life - Live From Spotify London,64ndFagAiHD7qHiGWRyitC,1,2015,latin pop,0.496,0.545,7,-7.835,1,0.0444,0.534,5.00E-05,0.693,0.356,117.266,228341,English,George,2025-01-20T21:06:38.0679Z
+Juanes,Es Por Ti - MTV Unplugged,0xrdEQUNJlQEidMI3GZ3UC,0,2012,latin pop,0.56,0.532,4,-8.341,1,0.0411,0.656,0,0.706,0.265,120.161,295867,Spanish,George,2025-01-19T23:13:53.0679Z
+Alesso,Heroes (we could be) - Jai Wolf Remix,6UYLBu0R2EIMPdGlT7bv28,0,2014,pop edm,0.629,0.883,9,-2.573,0,0.0415,0.331,3.18E-05,0.0922,0.23,140.044,205720,English,George,2025-01-18T20:29:52.0679Z
+Taylor Swift,Bad Blood,273dCMFseLcVsoSWx59IoE,62,2014,pop edm,0.652,0.802,7,-6.114,1,0.181,0.0871,6.45E-06,0.148,0.295,170.157,211933,English,George,2025-01-18T20:12:18.0679Z
+Carlos Vives,Bailar Contigo,1KbX1VuFIgsRa9JjnQtRYA,57,2013,latin pop,0.576,0.843,5,-5.034,1,0.0419,0.0159,0,0.0972,0.411,100.019,252120,Spanish,George,2025-01-18T12:02:19.0679Z
+Angel Y Khriz,Me Enamoré,2o1YTrG6Cx6Hwe2WyJP7XE,0,2010,latin pop,0.814,0.865,1,-3.55,1,0.0389,0.279,0,0.0284,0.94,114.998,255560,Spanish,George,2025-01-17T14:27:14.0679Z
+Plan B,Choca,6RsnwfOHuNfYw1vMZbAy8l,0,2014,latin pop,0.858,0.835,4,-4.852,0,0.122,0.225,5.76E-06,0.0613,0.466,88,220987,Spanish,George,2025-01-16T21:01:47.0679Z
+Mane de la Parra,Como Soy,3tl7BKteH6tpxbZXuFeFf2,0,2013,latin pop,0.666,0.768,7,-6.285,1,0.061,0.553,0,0.165,0.818,104.078,184027,Spanish,George,2025-01-16T07:43:08.0679Z
+Pegboard Nerds,Emergency,14eqkkICgX9BTqL8qykxJ7,0,2014,pop edm,0.618,0.961,11,-2.191,0,0.0548,0.00024,0.687,0.497,0.505,127.992,253125,English,George,2025-01-15T19:03:13.0679Z
+Coldplay,A Sky Full of Stars - Hardwell Remix,4m44w58OgkMpRrFaw6f4QJ,18,2015,pop edm,0.439,0.648,3,-3.643,0,0.0325,0.019,0,0.343,0.0546,127.954,210938,English,George,2025-01-15T18:44:39.0679Z
+Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),1CmUZGtH29Kx36C1Hleqlz,68,2012,pop edm,0.781,0.526,6,-6.985,0,0.293,0.0619,0,0.0457,0.662,94.992,235613,English,George,2025-01-15T14:58:27.0679Z
+RedMoon,Heavyweight,5m1NC5p6ZsxgpQU7M1pHmT,0,2015,pop edm,0.55,0.704,8,-6.426,1,0.0592,0.0617,0,0.152,0.226,128.049,196904,English,George,2025-01-14T04:08:10.0679Z
+Yotuel,Me Gusta,1CMUEczBbSpRPynaBPx4FO,40,2013,latin pop,0.726,0.875,10,-5.427,1,0.0326,0.104,0,0.123,0.794,91.994,207587,Spanish,George,2025-01-13T23:30:11.0679Z
+"Tito ""El Bambino""",Flow Natural,2OhYs5kq57o6n1YaJNmRth,55,2010,reggaeton,0.83,0.796,0,-5.596,1,0.0702,0.116,0,0.328,0.794,101.017,173671,English,George,2025-01-13T15:58:15.0679Z

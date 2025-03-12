@@ -1,0 +1,130 @@
+[
+    {
+        "city": "Amsterdam",
+        "duration": "2.30",
+        "song_name": "Beetje Van Mij",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02dd294a43bfac4cdbe071985b",
+        "song_url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL",
+        "artist_name": "Antoon"
+    },
+    {
+        "city": "Barcelona",
+        "duration": "2.37",
+        "song_name": "capaz (merengueton)",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e020374fb22f5100ccd41532cd9",
+        "song_url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN",
+        "artist_name": "Alleh, Yorghaki"
+    },
+    {
+        "city": "Berlin",
+        "duration": "1.50",
+        "song_name": "tau mich auf",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02dd398d2896d2769dd492605a",
+        "song_url": "https://open.spotify.com/track/1miUvxUZfqDAXtA4vR2MIW",
+        "artist_name": "Zartmann"
+    },
+    {
+        "city": "Chicago",
+        "duration": "3.19",
+        "song_name": "FREE SMURK OFNG",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e026f99025841b5cd0b91750a07",
+        "song_url": "https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz",
+        "artist_name": "Chuckyy"
+    },
+    {
+        "city": "Istanbul",
+        "duration": "2.26",
+        "song_name": "16-24",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02a81b13a539eec67b0c145f8d",
+        "song_url": "https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi",
+        "artist_name": "Wegh"
+    },
+    {
+        "city": "Jakarta",
+        "duration": "3.41",
+        "song_name": "Berharap Pada Timur",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02b237737fa9b19606cfc30300",
+        "song_url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN",
+        "artist_name": "Salma Salsabil"
+    },
+    {
+        "city": "London",
+        "duration": "3.08",
+        "song_name": "Los Padrinos Del Gangsta Rap",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02a7592fdf8f9be9a4bc2a9341",
+        "song_url": "https://open.spotify.com/track/5QERdiPQs27Un9CwuTlDO5",
+        "artist_name": "John Jay, Ñengo Flow"
+    },
+    {
+        "city": "Los Angeles",
+        "duration": "",
+        "song_name": "Impatient freestyle",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e0285a6b8423a2b5feb7b41b3ee",
+        "song_url": "",
+        "artist_name": "GmoneyDt"
+    },
+    {
+        "city": "Madrid",
+        "duration": "3.58",
+        "song_name": "SKR SKR",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02e74c27199179e71e0998da68",
+        "song_url": "https://open.spotify.com/track/2WqtCYZXu5cdUHgB9TAU9o",
+        "artist_name": "Recycled J, mvrk"
+    },
+    {
+        "city": "Mexico City",
+        "duration": "3.17",
+        "song_name": "BEIBY - Remix",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02ccd743e248e7b5612de3cc20",
+        "song_url": "https://open.spotify.com/track/0HjV1R5MaVfJ5q1N1LzaHG",
+        "artist_name": "Cachirula, LOOJAN, El Malilla"
+    },
+    {
+        "city": "New York City",
+        "duration": "3.18",
+        "song_name": "Real Spill",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e0277850e2223d46180480fd2d0",
+        "song_url": "https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1",
+        "artist_name": "Mdot 59"
+    },
+    {
+        "city": "Paris",
+        "duration": "3.14",
+        "song_name": "Tus Ojos y el HB20",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e0288b4addf6593e87121d5d2ad",
+        "song_url": "https://open.spotify.com/track/1iHNc3w223fFqx2QzIDgO7",
+        "artist_name": "Beto Falcão"
+    },
+    {
+        "city": "Santiago",
+        "duration": "2.13",
+        "song_name": "BONSAI",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e029ffbc8791a4cf0462cae37c7",
+        "song_url": "https://open.spotify.com/album/015nwEsUaD2okzr62ieqSm",
+        "artist_name": "Ak4:20, En La Nota Records"
+    },
+    {
+        "city": "Sydney",
+        "duration": "4.44",
+        "song_name": "100 Of Em",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e02f70fad301dc5693bf20e2da9",
+        "song_url": "https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX",
+        "artist_name": "Kerser"
+    },
+    {
+        "city": "São Paulo",
+        "duration": "3.12",
+        "song_name": "Os Mlk É Ruim",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e0214564c5d5987242d4bc3b41a",
+        "song_url": "https://open.spotify.com/track/15ymhW6QdrKfkhpeeJvz79",
+        "artist_name": "Mc Negão Original, Veigh, Toledo, DJ Guh Mix, ..."
+    },
+    {
+        "city": "Toronto",
+        "duration": "1.51",
+        "song_name": "Clippers",
+        "img_url": "https://i.scdn.co/image/ab67616d00001e025c29c4460651e4438db35cea",
+        "song_url": "https://open.spotify.com/track/5VmXCrsHd2iFGeyGkbNHyi",
+        "artist_name": "Savv4x"
+    }
+]

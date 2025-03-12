@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nextjs-portal {
+  display: none;
+}
+
+/* home page css */
+
+.custome-select {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+}
+
+.custome-select label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+
+.custome-select select {
+  appearance: none; /* Hide default dropdown arrow */
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+  z-index: 2; /* Ensures it is above other elements */
+}
+
+.custome-select span {
+  position: absolute;
+  left: 10px;
+  color: #999;
+  pointer-events: none; /* Prevents blocking clicks */
+}
+
+.custome-select b {
+  position: absolute;
+  right: 10px;
+  z-index: 1;
+  pointer-events: none; /* Prevents blocking clicks */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #fff;
+  border-top: 5px solid #007bff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.album-unit-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.delete-btn:hover {
+  background-color: #c82333;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Ensures buttons are at opposite ends */
+  width: 100%;
+  padding: 10px 0;
+}
+
+.action-btn {
+  flex: 1; /* Ensures both buttons take equal space */
+  max-width: 48%; /* Prevents buttons from becoming too wide */
+  padding: 8px 12px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+}
+
+
