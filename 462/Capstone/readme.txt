@@ -39,7 +39,7 @@ You will need the following:
 Your project is now running! 🚀  
 
 Note: If your python is running on  Running on http://127.0.0.1:5000 then you don't need to worry about anything. 
-If it is running on some other address like http://localhost:500 then you need to update the frontend/src/app/api/api.js file with the correct address.
+If it is running on some other address like http://localhost:5000 then you need to update the frontend/src/app/api/api.js file with the correct address.
 
 
 Information: The white board object detection model is trained using Yolo V12, the folder dataset contains labelled images and model folder contains the script to train the model on google Colab.
