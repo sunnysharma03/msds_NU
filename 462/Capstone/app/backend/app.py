@@ -25,7 +25,7 @@ CORS(app)
 # Load models
 whisper_model = whisper.load_model("tiny")
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
-yolo_model = YOLO('./data/best.pt')
+yolo_model = YOLO('./utils/best.pt')
 
 # Output directory
 OUTPUT_FOLDER = "uploads"
