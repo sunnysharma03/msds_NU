@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crack-mariner-451814-p6",
+  "private_key_id": "71841b7c725c14f002bc0c022929f4c922941ffd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFP6/Y/7XJMIrl\npUgMo6eYj+Iwt7439E/A/f7p0zEcfgODB88E/MYVCXsfTZaEBceH3A+gfxIeRo5P\niywGY4qx95yeEWTGNe2cJaXRz++7xKXOyfUzrV3tPEdgJy/kEu+GBv1S/AsPW0zf\nEYVIDx9rmIEwq4tq9l3mj1KoiAzpQDij1RUKEqVwYcXqd1XdoPhcBGmce/Q0ZlVl\nCZ4Q8i+oVIEQPDlhqUH2fq9obw2ypObJI7hEJH9WkSSgAnmxc/y54ONC6zcrOVgD\ntY5fBaHE9ixbbUd/fm4gkF2H+26nFJlg+V9ZuV+Ei6zVQHUmfa2SaxtjL8djgGz1\nwXp5bFepAgMBAAECggEABEz/+5mmvW27fOfydwPApp742feq/tDARkIGLf5qz0Ha\n99SioaDqfOtayzB6RXkT9CJwQkn8VjCTD4kGWJd7dDzaML2fw9fJl/p0/+rvtu7B\n7+0fdYUfEPTxTaIeb+kESTjg4Dof5RxdjphqPoDFk6diJhJ6zPDKfxmVU4NPkcHe\nKsfXnfJWvS73nhaG7AAVYG+pWafMCBfWlw2GBfRHwn7P4E7vZbweoMgIr7fe03hU\nPu4VqfMWlnZ49a3ktF0VOcBHgOak3lSSmLjXG+aHbx2gvBkCuEYb6BlqyNdIMwFX\nRuWYki+jduH6gPLsE1r+DX85gTX6YdpsVmYGBvK4IQKBgQD2osDdZzG6+UhmDHan\nHOg6Jg3b1RqcBB+xCIdHFCg8JvIRxFQlOB79eykBjxqzlmE4JDPR84UXl7fSlNFU\n7OIlHlNEXIeQzDmpnvodirmPyHJpvdMKJcAc2zIMcmq8q/wmHarkhbFueLM0FTby\ndaot8nyVnkTrC6/4GZu5fwmCoQKBgQDMvOcW6Wet3ucg1zx3F24UzfswuFPaKvCM\noN1suJUQLCmoxm1+rLiBdK88+63YW9IIGVV2NGu+RDs34BZrKmkdM00Un1gdEEPH\ngvAgahDBh2XzaK+7sswloAz3J/2v0R9Akpx/oTYkpyw1QL2sO+cYQZiaqrZO0FBG\n2ZbwSV7ACQKBgEkyQD71M2MkPIJczJIIGDu5s388nasT5jvqJgvIRbCkdk8jjz2E\njF36QU8/I1ONG8lHpUF4HlXEJ0AN/ppPu0X83AV72Jf2pF5c2ioOU8gCW0Jandlz\nHrLxssbS5i6cdDbzsxYjP2dj1vtsGGSY2yrLvoHA+P8w9saRAxBoTXBBAoGAIWR6\nCGmfKGOfrOKOERp4MNp7qrGVs5KnUzh1hOMCJPYfAVED0NJY8XxXjIm8C/rF4d5H\n6xSXshus0OsynN348PNKEh//HhZmB6dahN7nxrjPrwiXCPUbiNN26eTS4pcoEr8W\n2VYw33+InVLm3K2UfodMXYWUYHxna3bXwG8nDgkCgYAHmNHdR1NnrhGwHgNUXRJH\nNFixKwTOznx0kiyi5B8HwL54668FVRadv7AvD1B4MnEElaUa/1H3rnRSYFb9Hoew\n8hS2dLd9AofnXPM44t7cZet2dQoG87Vtfglp8hOCVMnhJwha3z0/41UH/uguGvLL\nnj2kFOjSTb6+BcBuXJOuUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-62-cv@crack-mariner-451814-p6.iam.gserviceaccount.com",
+  "client_id": "112265951101176377072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-62-cv%40crack-mariner-451814-p6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,12 @@
+openai-whisper
+whisper
+moviepy
+cv2
+supervision
+google-cloud-vision
+flask
+flask-cors
+ultralytics
+google-cloud
+supervision
+openai
