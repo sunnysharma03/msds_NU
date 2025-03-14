@@ -56,3 +56,11 @@ You will need the following:
   http://localhost:3000  
 
 Your project is now running! 🚀  
+
+Note: If your Python server is running at http://127.0.0.1:5000, no changes are needed. If it is running at a different address, like http://localhost:5000, update the frontend/src/app/api/api.js file with the correct address.
+
+EDA: You can run the Jupyter Notebook in the EDA folder to explore the analysis performed on the last 50 songs played by the user and the Spotify 1M songs dataset(https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks/data).
+
+**Generating JSON files:** Run the scripts in the **scripts** folder to fetch the latest song data from Spotify Charts for each country. Make sure to provide your email and password in the environment variables before running the scripts.  
+
+There are also scripts for adding locale information to the original 1M Spotify Songs dataset, as well as a script to fetch the user's last 50 played songs.
